@@ -1,3 +1,5 @@
+<img align="right" alt="GIF" src="./assets/img/mario.gif" width="450" />
+
 # 👋 Hello, I'm Rodrigo Ramos
 
 🚀 Passionate about technology since the age of 11, I'm deeply immersed in the world of information security. Here's a summary of my career:
@@ -22,7 +24,7 @@ My path took a secure turn as I became a Security Engineer 🔒, safeguarding Ap
 ## 📚 Academic Information / Courses
 
 - Variety of computer courses 💻
-- .NET Development Course (From desktop to WEB) (Microsoft Partnership).🖥️
+- .NET Development Course (From desktop to WEB) (Microsoft Partnership) 🖥️
 - Bachelor's in Analysis and Systems Development 🎓
 
 ## 🚀 Strong Technical Knowledge
