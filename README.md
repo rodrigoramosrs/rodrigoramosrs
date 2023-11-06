@@ -59,8 +59,10 @@ My path took a secure turn as I became a Security Engineer 🔒, safeguarding Ap
 - [HackerOne](https://hackerone.com/rodrigoramosrs) (Top 10 in March 2023 - Brazil Ranking) 🏆
 - [Bugcrowd](https://bugcrowd.com/rodrigoramosrs) (Named MVP 2022) 🏆
 
-## 🚀 My Linkedin
+## 📩 Contact me
 
-[Linkedin - Rodrigo Ramos](https://www.linkedin.com/in/rodrigoramosrs/) 
+<p align="left">
+  <a href="https://www.linkedin.com/in/rodrigoramosrs/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@rodrigoramosrs-blue?style=flat&logo=linkedin"></a>
+</p>
 
-📩 Let's connect on LinkedIn and continue building the future of technology together! 💪
+Let's connect on LinkedIn and continue building the future of technology together! 💪
